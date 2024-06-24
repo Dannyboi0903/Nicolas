@@ -1,0 +1,40 @@
+.bg-red {
+    background-color: #9d2126;
+}
+
+.btn-red {
+    background-color: #9d2126;
+    color: #ffffff;
+}
+
+
+.btn-red:hover {
+    background-color: #ffffff;
+    border: #9d2126 1px solid;
+    color: #9d2126;
+}
+
+.btn-red-outline {
+    background-color: #ffffff;
+    border: #9d2126 1px solid;
+    color: #9d2126;
+}
+
+.btn-red-outline:hover {
+    background-color: #9d2126;
+    color: #ffffff;
+}
+
+.btn-red-outline.active {
+    background-color: #9d2126;
+    color: #ffffff;
+}
+
+.text-red {
+    color: #9d2126;
+}
+
+.table-red {
+    --bs-table-bg: #9d2126;
+    --bs-table-color-type: #fff;
+}
